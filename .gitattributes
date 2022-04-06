@@ -1,2 +1,41 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<header>Upcoming Artist Alert!</header>
+    <a class="active" href="#home">Home</a>
+    <a href="#contact">Contact</a>
+<body>
+<head>
+<h1>Sophia Price</h1>
+</head>
+<main>
+<h2>About The Artist</h2>
+<body>
+<img src="file:///Users/sophiaprice/Desktop/ProfilePicture.jpeg" alt="Profile Picture">
+</body>
+<p>
+Sophia Price, born in Hudson, Ohio started her music and songwriting journey at the age of 12 teaching herself how to play guitar and piano. She began performing at local coffee shops and community music festivals when she was 15, and then later attended <strong>Interlochen Arts Academy</strong> in Michigan where she received intensive singing and songwriting training. After being fully self taught in guitar, piano, bass, and classically trained on flute, she then took her talents to New Orleans Louisiana where she now studies at <strong>Loyola University</strong> where she has collaborated in writing with numerous other artists <strong> (<em>Lyla DiPaul, Thea Aksland, Michael Sparks</em>)</strong> as well as performed around the New Orleans area. Primarily a pop writer, her musical influences consists of Hozier, Pheobe Bridgers, Billie Eilish, Briston Maroney, Taylor Swift, and Lorde. In every show, Price would like to give a shoutout to her family and friends for their continued love and support as she embarks in her career. </p>
+</main>
+<h2>Be On The Look Out!</h2>
+<ul>
+<p><em>That Song About That Boy</em> out on all music platforms May 13th 2022</p>
+
+<p><em>After Party EP</em> out on all music platforms July 15th 2022</p>
+</ul>
+<h3>Behind The Project</h3>
+
+<p>"I think overall this song is about finding closure without really getting closure-- this whole project is. I felt like I had no choice but to write my own conclusions, answer my own questions, connecting the dots till I felt OK. It's hard because how do you ask someone to give you closure when you feel like you don't even have a right to know and ask? That's easy, you don't ask. You just have to learn how to heal without. I wrote my side of the story, without them and they might not agree with the way I'm seeing and that's OK. I think to some extent, in the moment and in the relationship, we give people those chances to show us and when they don't, that's where it all falls apart." 
+-Sophia</p>
+
+<h3>After Party EP Track List</h3>
+<ol>
+<li>Barbie Doll</li>
+<li>That Song About That Boy</li>
+<li>My Kind Of Guy</li>
+<li>Aphrodite</li>
+<li>Bullshit</li>
+<li>After Party</li>
+</ol>
+<h3>Sophia has written on...<h3>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/48ODhosdp9lAk0Zc98CFkk?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+</body>
+</html>
